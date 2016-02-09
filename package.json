@@ -1,0 +1,16 @@
+{
+  "name": "fndn_auth_simple",
+  "version": "0.5.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jørgen Skogmo <js@base.io> (http://base.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "dotenv": "^1.2.0"
+  }
+}
